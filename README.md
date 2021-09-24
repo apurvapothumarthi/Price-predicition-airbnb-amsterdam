@@ -1,7 +1,7 @@
 # Price-predicition-airbnb-amsterdam
 Price Prediction of AirBnb Amsterdam listings
 
-Using Airbnb listings of Amsterdam, a tree regression model to predict price of an Airbnb. This also includes visualisation of the data. The python file prediction gives the prediction of the price.
+Using Airbnb listings of Amsterdam, a tree regression model to predict price of an Airbnb. This also includes visualisation of the data. The python file prediction gives the prediction of the price. I also made a custom csv file with tourist sports in and around Amsterdam with longitudes and latitudes (tourism_listings.csv)
 
 ![image](https://user-images.githubusercontent.com/91325608/134674852-78d969ab-cb87-4418-a18e-b5ab08e8c142.png)
 
